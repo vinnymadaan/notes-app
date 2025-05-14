@@ -1,0 +1,1 @@
+Created a notes taking app by using express, ejs.
